@@ -1,0 +1,4 @@
+{"source_index": 0, "ratio": 0.2, "error": "compression failed after 1 attempts: compressed result is too short: target=80, actual=76"}
+{"source_index": 0, "ratio": 0.4, "error": "compression failed after 1 attempts: compressed result is too short: target=160, actual=100"}
+{"source_index": 0, "ratio": 0.6, "error": "compression failed after 1 attempts: compressed result is too short: target=240, actual=98"}
+{"source_index": 0, "ratio": 0.8, "error": "compression failed after 1 attempts: compressed result is too short: target=320, actual=133"}

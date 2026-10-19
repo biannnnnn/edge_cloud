@@ -1,0 +1,741 @@
+{"source_index": 2, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=174, actual=108, coverage=0.621, required=0.950"}
+{"source_index": 1, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=338, actual=313, coverage=0.926, required=0.950"}
+{"source_index": 6, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=514, actual=344, coverage=0.669, required=0.950"}
+{"source_index": 8, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=303, actual=226, coverage=0.746, required=0.950"}
+{"source_index": 10, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=428, actual=342, coverage=0.799, required=0.950"}
+{"source_index": 12, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=288, actual=267, coverage=0.927, required=0.950"}
+{"source_index": 12, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=577, actual=186, coverage=0.322, required=0.950"}
+{"source_index": 14, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=212, actual=121, coverage=0.571, required=0.950"}
+{"source_index": 18, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=415, actual=325, coverage=0.783, required=0.950"}
+{"source_index": 19, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=298, actual=190, coverage=0.638, required=0.950"}
+{"source_index": 26, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=319, actual=285, coverage=0.893, required=0.950"}
+{"source_index": 25, "ratio": 0.8, "error": "compression failed after 5 attempts: compressed_cot contains meta-instruction language"}
+{"source_index": 26, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=426, actual=281, coverage=0.660, required=0.950"}
+{"source_index": 29, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=446, actual=325, coverage=0.729, required=0.950"}
+{"source_index": 34, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=194, actual=179, coverage=0.923, required=0.950"}
+{"source_index": 37, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=350, actual=217, coverage=0.620, required=0.950"}
+{"source_index": 40, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=330, actual=245, coverage=0.742, required=0.950"}
+{"source_index": 40, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=661, actual=344, coverage=0.520, required=0.950"}
+{"source_index": 41, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=419, actual=389, coverage=0.928, required=0.950"}
+{"source_index": 41, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=558, actual=351, coverage=0.629, required=0.950"}
+{"source_index": 45, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=411, actual=346, coverage=0.842, required=0.950"}
+{"source_index": 46, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=247, actual=198, coverage=0.802, required=0.950"}
+{"source_index": 47, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=478, actual=327, coverage=0.684, required=0.950"}
+{"source_index": 47, "ratio": 0.6, "error": "compression failed after 5 attempts: compressed_cot contains meta-instruction language"}
+{"source_index": 48, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=497, actual=250, coverage=0.503, required=0.950"}
+{"source_index": 52, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=396, actual=246, coverage=0.621, required=0.950"}
+{"source_index": 52, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=595, actual=218, coverage=0.366, required=0.950"}
+{"source_index": 52, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=793, actual=265, coverage=0.334, required=0.950"}
+{"source_index": 54, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=220, actual=195, coverage=0.886, required=0.950"}
+{"source_index": 57, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=507, actual=427, coverage=0.842, required=0.950"}
+{"source_index": 59, "ratio": 0.2, "error": "compression failed after 5 attempts: model coverage is too low: target=145, actual=131, coverage=0.903, required=0.950"}
+{"source_index": 59, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=434, actual=277, coverage=0.638, required=0.950"}
+{"source_index": 59, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=578, actual=478, coverage=0.827, required=0.950"}
+{"source_index": 61, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=346, actual=202, coverage=0.584, required=0.950"}
+{"source_index": 62, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=360, actual=250, coverage=0.694, required=0.950"}
+{"source_index": 63, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=342, actual=303, coverage=0.886, required=0.950"}
+{"source_index": 63, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=456, actual=239, coverage=0.524, required=0.950"}
+{"source_index": 66, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=350, actual=247, coverage=0.706, required=0.950"}
+{"source_index": 62, "ratio": 0.8, "error": "compression failed after 5 attempts: incomplete API response: finish_reason=length"}
+{"source_index": 66, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=467, actual=318, coverage=0.681, required=0.950"}
+{"source_index": 69, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=301, actual=261, coverage=0.867, required=0.950"}
+{"source_index": 69, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=402, actual=356, coverage=0.886, required=0.950"}
+{"source_index": 76, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=287, actual=205, coverage=0.714, required=0.950"}
+{"source_index": 76, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=574, actual=239, coverage=0.416, required=0.950"}
+{"source_index": 82, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=294, actual=251, coverage=0.854, required=0.950"}
+{"source_index": 82, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=392, actual=300, coverage=0.765, required=0.950"}
+{"source_index": 87, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=409, actual=221, coverage=0.540, required=0.950"}
+{"source_index": 88, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=255, actual=212, coverage=0.831, required=0.950"}
+{"source_index": 87, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=546, actual=456, coverage=0.835, required=0.950"}
+{"source_index": 88, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=510, actual=378, coverage=0.741, required=0.950"}
+{"source_index": 89, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=438, actual=259, coverage=0.591, required=0.950"}
+{"source_index": 92, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=509, actual=415, coverage=0.815, required=0.950"}
+{"source_index": 93, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=318, actual=295, coverage=0.928, required=0.950"}
+{"source_index": 94, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=265, actual=224, coverage=0.845, required=0.950"}
+{"source_index": 94, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=354, actual=283, coverage=0.799, required=0.950"}
+{"source_index": 95, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=461, actual=301, coverage=0.653, required=0.950"}
+{"source_index": 96, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=416, actual=349, coverage=0.839, required=0.950"}
+{"source_index": 97, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=649, actual=400, coverage=0.616, required=0.950"}
+{"source_index": 100, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=182, actual=170, coverage=0.934, required=0.950"}
+{"source_index": 99, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=313, actual=272, coverage=0.869, required=0.950"}
+{"source_index": 100, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=365, actual=293, coverage=0.803, required=0.950"}
+{"source_index": 101, "ratio": 0.8, "error": "compression failed after 5 attempts: compressed_cot contains meta-instruction language"}
+{"source_index": 102, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=434, actual=325, coverage=0.749, required=0.950"}
+{"source_index": 102, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=578, actual=503, coverage=0.870, required=0.950"}
+{"source_index": 103, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=481, actual=435, coverage=0.904, required=0.950"}
+{"source_index": 103, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=642, actual=396, coverage=0.617, required=0.950"}
+{"source_index": 105, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=351, actual=275, coverage=0.783, required=0.950"}
+{"source_index": 106, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=351, actual=284, coverage=0.809, required=0.950"}
+{"source_index": 107, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=504, actual=279, coverage=0.554, required=0.950"}
+{"source_index": 108, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=581, actual=490, coverage=0.843, required=0.950"}
+{"source_index": 110, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=162, actual=130, coverage=0.802, required=0.950"}
+{"source_index": 109, "ratio": 0.6, "error": "compression failed after 5 attempts: compressed_cot contains meta-instruction language"}
+{"source_index": 109, "ratio": 0.8, "error": "compression failed after 5 attempts: compressed_cot contains meta-instruction language"}
+{"source_index": 118, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=2206, actual=326, coverage=0.148, required=0.950"}
+{"source_index": 119, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=243, actual=210, coverage=0.864, required=0.950"}
+{"source_index": 118, "ratio": 0.2, "error": "compression failed after 5 attempts: incomplete API response: finish_reason=length"}
+{"source_index": 118, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=1103, actual=483, coverage=0.438, required=0.950"}
+{"source_index": 119, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=486, actual=422, coverage=0.868, required=0.950"}
+{"source_index": 118, "ratio": 0.6, "error": "compression failed after 5 attempts: incomplete API response: finish_reason=length"}
+{"source_index": 120, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=387, actual=353, coverage=0.912, required=0.950"}
+{"source_index": 120, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=516, actual=288, coverage=0.558, required=0.950"}
+{"source_index": 121, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=365, actual=293, coverage=0.803, required=0.950"}
+{"source_index": 122, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=374, actual=337, coverage=0.901, required=0.950"}
+{"source_index": 123, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=454, actual=247, coverage=0.544, required=0.950"}
+{"source_index": 124, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=505, actual=452, coverage=0.895, required=0.950"}
+{"source_index": 127, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=445, actual=118, coverage=0.265, required=0.950"}
+{"source_index": 129, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=222, actual=181, coverage=0.815, required=0.950"}
+{"source_index": 129, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=334, actual=301, coverage=0.901, required=0.950"}
+{"source_index": 131, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=393, actual=249, coverage=0.634, required=0.950"}
+{"source_index": 133, "ratio": 0.4, "error": "compression failed after 5 attempts: incomplete API response: finish_reason=length"}
+{"source_index": 136, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=440, actual=396, coverage=0.900, required=0.950"}
+{"source_index": 140, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=296, actual=275, coverage=0.929, required=0.950"}
+{"source_index": 142, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=404, actual=337, coverage=0.834, required=0.950"}
+{"source_index": 143, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=627, actual=501, coverage=0.799, required=0.950"}
+{"source_index": 143, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=836, actual=560, coverage=0.670, required=0.950"}
+{"source_index": 146, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=537, actual=507, coverage=0.944, required=0.950"}
+{"source_index": 147, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=488, actual=424, coverage=0.869, required=0.950"}
+{"source_index": 150, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=294, actual=157, coverage=0.534, required=0.950"}
+{"source_index": 150, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=392, actual=156, coverage=0.398, required=0.950"}
+{"source_index": 149, "ratio": 0.6, "error": "compression failed after 5 attempts: compressed_cot contains meta-instruction language"}
+{"source_index": 149, "ratio": 0.8, "error": "compression failed after 5 attempts: compressed_cot contains meta-instruction language"}
+{"source_index": 152, "ratio": 0.2, "error": "compression failed after 5 attempts: model coverage is too low: target=178, actual=125, coverage=0.702, required=0.950"}
+{"source_index": 152, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=356, actual=303, coverage=0.851, required=0.950"}
+{"source_index": 152, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=713, actual=367, coverage=0.515, required=0.950"}
+{"source_index": 155, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=210, actual=173, coverage=0.824, required=0.950"}
+{"source_index": 156, "ratio": 0.2, "error": "compression failed after 5 attempts: model coverage is too low: target=138, actual=109, coverage=0.790, required=0.950"}
+{"source_index": 155, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=420, actual=343, coverage=0.817, required=0.950"}
+{"source_index": 156, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=414, actual=353, coverage=0.853, required=0.950"}
+{"source_index": 156, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=552, actual=508, coverage=0.920, required=0.950"}
+{"source_index": 157, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=316, actual=276, coverage=0.873, required=0.950"}
+{"source_index": 158, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=488, actual=359, coverage=0.736, required=0.950"}
+{"source_index": 160, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=223, actual=197, coverage=0.883, required=0.950"}
+{"source_index": 164, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=498, actual=310, coverage=0.622, required=0.950"}
+{"source_index": 166, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=324, actual=198, coverage=0.611, required=0.950"}
+{"source_index": 167, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=552, actual=357, coverage=0.647, required=0.950"}
+{"source_index": 167, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=736, actual=640, coverage=0.870, required=0.950"}
+{"source_index": 168, "ratio": 0.8, "error": "compression failed after 5 attempts: compressed_cot contains meta-instruction language"}
+{"source_index": 169, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=356, actual=225, coverage=0.632, required=0.950"}
+{"source_index": 168, "ratio": 0.6, "error": "compression failed after 5 attempts: compressed_cot contains meta-instruction language"}
+{"source_index": 170, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=375, actual=201, coverage=0.536, required=0.950"}
+{"source_index": 171, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=923, actual=225, coverage=0.244, required=0.950"}
+{"source_index": 171, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=1385, actual=603, coverage=0.435, required=0.950"}
+{"source_index": 172, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=280, actual=210, coverage=0.750, required=0.950"}
+{"source_index": 171, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=1846, actual=641, coverage=0.347, required=0.950"}
+{"source_index": 172, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=560, actual=359, coverage=0.641, required=0.950"}
+{"source_index": 174, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=256, actual=142, coverage=0.555, required=0.950"}
+{"source_index": 174, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=513, actual=411, coverage=0.801, required=0.950"}
+{"source_index": 178, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=465, actual=434, coverage=0.933, required=0.950"}
+{"source_index": 178, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=620, actual=494, coverage=0.797, required=0.950"}
+{"source_index": 177, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=454, actual=421, coverage=0.927, required=0.950"}
+{"source_index": 180, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=496, actual=458, coverage=0.923, required=0.950"}
+{"source_index": 181, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=534, actual=190, coverage=0.356, required=0.950"}
+{"source_index": 182, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=398, actual=309, coverage=0.776, required=0.950"}
+{"source_index": 184, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=385, actual=319, coverage=0.829, required=0.950"}
+{"source_index": 185, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=461, actual=418, coverage=0.907, required=0.950"}
+{"source_index": 186, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=424, actual=327, coverage=0.771, required=0.950"}
+{"source_index": 185, "ratio": 0.8, "error": "compression failed after 5 attempts: compressed_cot contains meta-instruction language"}
+{"source_index": 186, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=566, actual=306, coverage=0.541, required=0.950"}
+{"source_index": 187, "ratio": 0.2, "error": "compression failed after 5 attempts: model coverage is too low: target=226, actual=168, coverage=0.743, required=0.950"}
+{"source_index": 187, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=905, actual=566, coverage=0.625, required=0.950"}
+{"source_index": 187, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=679, actual=631, coverage=0.929, required=0.950"}
+{"source_index": 198, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=263, actual=231, coverage=0.878, required=0.950"}
+{"source_index": 199, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=406, actual=347, coverage=0.855, required=0.950"}
+{"source_index": 203, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=391, actual=272, coverage=0.696, required=0.950"}
+{"source_index": 204, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=280, actual=208, coverage=0.743, required=0.950"}
+{"source_index": 204, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=373, actual=204, coverage=0.547, required=0.950"}
+{"source_index": 205, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=270, actual=248, coverage=0.919, required=0.950"}
+{"source_index": 206, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=221, actual=206, coverage=0.932, required=0.950"}
+{"source_index": 206, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=442, actual=261, coverage=0.590, required=0.950"}
+{"source_index": 207, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=433, actual=409, coverage=0.945, required=0.950"}
+{"source_index": 209, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=295, actual=164, coverage=0.556, required=0.950"}
+{"source_index": 209, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=394, actual=241, coverage=0.612, required=0.950"}
+{"source_index": 211, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=231, actual=174, coverage=0.753, required=0.950"}
+{"source_index": 211, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=347, actual=138, coverage=0.398, required=0.950"}
+{"source_index": 211, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=462, actual=246, coverage=0.532, required=0.950"}
+{"source_index": 214, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=354, actual=281, coverage=0.794, required=0.950"}
+{"source_index": 215, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=704, actual=490, coverage=0.696, required=0.950"}
+{"source_index": 216, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=390, actual=260, coverage=0.667, required=0.950"}
+{"source_index": 218, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=326, actual=264, coverage=0.810, required=0.950"}
+{"source_index": 219, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=379, actual=287, coverage=0.757, required=0.950"}
+{"source_index": 219, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=506, actual=430, coverage=0.850, required=0.950"}
+{"source_index": 221, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=410, actual=320, coverage=0.780, required=0.950"}
+{"source_index": 222, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=467, actual=396, coverage=0.848, required=0.950"}
+{"source_index": 224, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=330, actual=264, coverage=0.800, required=0.950"}
+{"source_index": 230, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=456, actual=302, coverage=0.662, required=0.950"}
+{"source_index": 231, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=376, actual=356, coverage=0.947, required=0.950"}
+{"source_index": 231, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=501, actual=383, coverage=0.764, required=0.950"}
+{"source_index": 233, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=312, actual=157, coverage=0.503, required=0.950"}
+{"source_index": 233, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=416, actual=370, coverage=0.889, required=0.950"}
+{"source_index": 234, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=358, actual=249, coverage=0.696, required=0.950"}
+{"source_index": 234, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=477, actual=372, coverage=0.780, required=0.950"}
+{"source_index": 238, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=341, actual=231, coverage=0.677, required=0.950"}
+{"source_index": 241, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=439, actual=412, coverage=0.938, required=0.950"}
+{"source_index": 243, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=247, actual=230, coverage=0.931, required=0.950"}
+{"source_index": 243, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=371, actual=314, coverage=0.846, required=0.950"}
+{"source_index": 244, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=199, actual=170, coverage=0.854, required=0.950"}
+{"source_index": 255, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=572, actual=444, coverage=0.776, required=0.950"}
+{"source_index": 256, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=364, actual=298, coverage=0.819, required=0.950"}
+{"source_index": 257, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=281, actual=197, coverage=0.701, required=0.950"}
+{"source_index": 259, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=230, actual=217, coverage=0.943, required=0.950"}
+{"source_index": 259, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=307, actual=224, coverage=0.730, required=0.950"}
+{"source_index": 260, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=520, actual=407, coverage=0.783, required=0.950"}
+{"source_index": 262, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=386, actual=200, coverage=0.518, required=0.950"}
+{"source_index": 262, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=515, actual=235, coverage=0.456, required=0.950"}
+{"source_index": 263, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=465, actual=397, coverage=0.854, required=0.950"}
+{"source_index": 264, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=558, actual=500, coverage=0.896, required=0.950"}
+{"source_index": 264, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=744, actual=399, coverage=0.536, required=0.950"}
+{"source_index": 265, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=386, actual=335, coverage=0.868, required=0.950"}
+{"source_index": 266, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=442, actual=402, coverage=0.910, required=0.950"}
+{"source_index": 268, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=485, actual=387, coverage=0.798, required=0.950"}
+{"source_index": 270, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=264, actual=237, coverage=0.898, required=0.950"}
+{"source_index": 273, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=310, actual=213, coverage=0.687, required=0.950"}
+{"source_index": 273, "ratio": 0.6, "error": "compression failed after 5 attempts: compressed_cot contains meta-instruction language"}
+{"source_index": 274, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=413, actual=295, coverage=0.714, required=0.950"}
+{"source_index": 273, "ratio": 0.8, "error": "compression failed after 5 attempts: compressed_cot contains meta-instruction language"}
+{"source_index": 276, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=445, actual=321, coverage=0.721, required=0.950"}
+{"source_index": 279, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=341, actual=293, coverage=0.859, required=0.950"}
+{"source_index": 279, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=682, actual=287, coverage=0.421, required=0.950"}
+{"source_index": 279, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=511, actual=367, coverage=0.718, required=0.950"}
+{"source_index": 280, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=134, actual=112, coverage=0.836, required=0.950"}
+{"source_index": 284, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=296, actual=269, coverage=0.909, required=0.950"}
+{"source_index": 287, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=291, actual=257, coverage=0.883, required=0.950"}
+{"source_index": 288, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=421, actual=382, coverage=0.907, required=0.950"}
+{"source_index": 290, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=356, actual=307, coverage=0.862, required=0.950"}
+{"source_index": 291, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=446, actual=350, coverage=0.785, required=0.950"}
+{"source_index": 293, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=222, actual=173, coverage=0.779, required=0.950"}
+{"source_index": 292, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=447, actual=407, coverage=0.911, required=0.950"}
+{"source_index": 293, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=443, actual=201, coverage=0.454, required=0.950"}
+{"source_index": 294, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=394, actual=333, coverage=0.845, required=0.950"}
+{"source_index": 295, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=298, actual=272, coverage=0.913, required=0.950"}
+{"source_index": 295, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=448, actual=363, coverage=0.810, required=0.950"}
+{"source_index": 295, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=597, actual=361, coverage=0.605, required=0.950"}
+{"source_index": 297, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=247, actual=178, coverage=0.721, required=0.950"}
+{"source_index": 300, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=406, actual=377, coverage=0.929, required=0.950"}
+{"source_index": 299, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=521, actual=478, coverage=0.917, required=0.950"}
+{"source_index": 301, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=284, actual=254, coverage=0.894, required=0.950"}
+{"source_index": 303, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=380, actual=294, coverage=0.774, required=0.950"}
+{"source_index": 305, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=218, actual=182, coverage=0.835, required=0.950"}
+{"source_index": 307, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=228, actual=150, coverage=0.658, required=0.950"}
+{"source_index": 308, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=245, actual=190, coverage=0.776, required=0.950"}
+{"source_index": 309, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=362, actual=230, coverage=0.635, required=0.950"}
+{"source_index": 309, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=543, actual=436, coverage=0.803, required=0.950"}
+{"source_index": 309, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=724, actual=645, coverage=0.891, required=0.950"}
+{"source_index": 310, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=454, actual=368, coverage=0.811, required=0.950"}
+{"source_index": 310, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=606, actual=460, coverage=0.759, required=0.950"}
+{"source_index": 312, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=205, actual=180, coverage=0.878, required=0.950"}
+{"source_index": 317, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=389, actual=268, coverage=0.689, required=0.950"}
+{"source_index": 326, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=436, actual=280, coverage=0.642, required=0.950"}
+{"source_index": 328, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=269, actual=250, coverage=0.929, required=0.950"}
+{"source_index": 327, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=526, actual=352, coverage=0.669, required=0.950"}
+{"source_index": 328, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=359, actual=282, coverage=0.786, required=0.950"}
+{"source_index": 330, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=526, actual=179, coverage=0.340, required=0.950"}
+{"source_index": 330, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=394, actual=297, coverage=0.754, required=0.950"}
+{"source_index": 329, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=687, actual=561, coverage=0.817, required=0.950"}
+{"source_index": 333, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=153, actual=136, coverage=0.889, required=0.950"}
+{"source_index": 333, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=306, actual=267, coverage=0.873, required=0.950"}
+{"source_index": 335, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=287, actual=231, coverage=0.805, required=0.950"}
+{"source_index": 336, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=301, actual=248, coverage=0.824, required=0.950"}
+{"source_index": 331, "ratio": 0.8, "error": "compression failed after 5 attempts: incomplete API response: finish_reason=length"}
+{"source_index": 339, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=513, actual=339, coverage=0.661, required=0.950"}
+{"source_index": 339, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=684, actual=421, coverage=0.615, required=0.950"}
+{"source_index": 341, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=505, actual=420, coverage=0.832, required=0.950"}
+{"source_index": 344, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=361, actual=182, coverage=0.504, required=0.950"}
+{"source_index": 343, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=498, actual=444, coverage=0.892, required=0.950"}
+{"source_index": 344, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=482, actual=360, coverage=0.747, required=0.950"}
+{"source_index": 346, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=255, actual=129, coverage=0.506, required=0.950"}
+{"source_index": 346, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=382, actual=238, coverage=0.623, required=0.950"}
+{"source_index": 345, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=683, actual=558, coverage=0.817, required=0.950"}
+{"source_index": 346, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=510, actual=354, coverage=0.694, required=0.950"}
+{"source_index": 347, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=402, actual=295, coverage=0.734, required=0.950"}
+{"source_index": 350, "ratio": 0.2, "error": "compression failed after 5 attempts: model coverage is too low: target=162, actual=149, coverage=0.920, required=0.950"}
+{"source_index": 349, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=450, actual=399, coverage=0.887, required=0.950"}
+{"source_index": 350, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=324, actual=271, coverage=0.836, required=0.950"}
+{"source_index": 350, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=486, actual=324, coverage=0.667, required=0.950"}
+{"source_index": 350, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=648, actual=479, coverage=0.739, required=0.950"}
+{"source_index": 352, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=146, actual=135, coverage=0.925, required=0.950"}
+{"source_index": 353, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=307, actual=260, coverage=0.847, required=0.950"}
+{"source_index": 355, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=257, actual=175, coverage=0.681, required=0.950"}
+{"source_index": 355, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=385, actual=300, coverage=0.779, required=0.950"}
+{"source_index": 356, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=261, actual=235, coverage=0.900, required=0.950"}
+{"source_index": 355, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=514, actual=361, coverage=0.702, required=0.950"}
+{"source_index": 362, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=353, actual=268, coverage=0.759, required=0.950"}
+{"source_index": 362, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=471, actual=384, coverage=0.815, required=0.950"}
+{"source_index": 367, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=352, actual=289, coverage=0.821, required=0.950"}
+{"source_index": 372, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=274, actual=214, coverage=0.781, required=0.950"}
+{"source_index": 371, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=536, actual=291, coverage=0.543, required=0.950"}
+{"source_index": 372, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=411, actual=383, coverage=0.932, required=0.950"}
+{"source_index": 374, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=274, actual=249, coverage=0.909, required=0.950"}
+{"source_index": 376, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=349, actual=176, coverage=0.504, required=0.950"}
+{"source_index": 378, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=211, actual=189, coverage=0.896, required=0.950"}
+{"source_index": 386, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=444, actual=351, coverage=0.791, required=0.950"}
+{"source_index": 391, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=490, actual=377, coverage=0.769, required=0.950"}
+{"source_index": 392, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=394, actual=309, coverage=0.784, required=0.950"}
+{"source_index": 393, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=417, actual=232, coverage=0.556, required=0.950"}
+{"source_index": 394, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=450, actual=378, coverage=0.840, required=0.950"}
+{"source_index": 394, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=600, actual=566, coverage=0.943, required=0.950"}
+{"source_index": 397, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=478, actual=366, coverage=0.766, required=0.950"}
+{"source_index": 399, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=224, actual=189, coverage=0.844, required=0.950"}
+{"source_index": 402, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=386, actual=307, coverage=0.795, required=0.950"}
+{"source_index": 405, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=318, actual=252, coverage=0.792, required=0.950"}
+{"source_index": 406, "ratio": 0.2, "error": "compression failed after 5 attempts: model coverage is too low: target=217, actual=158, coverage=0.728, required=0.950"}
+{"source_index": 406, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=433, actual=380, coverage=0.878, required=0.950"}
+{"source_index": 407, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=434, actual=370, coverage=0.853, required=0.950"}
+{"source_index": 407, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=578, actual=423, coverage=0.732, required=0.950"}
+{"source_index": 406, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=866, actual=303, coverage=0.350, required=0.950"}
+{"source_index": 408, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=520, actual=152, coverage=0.292, required=0.950"}
+{"source_index": 411, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=222, actual=198, coverage=0.892, required=0.950"}
+{"source_index": 415, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=377, actual=355, coverage=0.942, required=0.950"}
+{"source_index": 420, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=222, actual=210, coverage=0.946, required=0.950"}
+{"source_index": 420, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=296, actual=275, coverage=0.929, required=0.950"}
+{"source_index": 421, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=357, actual=239, coverage=0.669, required=0.950"}
+{"source_index": 421, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=476, actual=298, coverage=0.626, required=0.950"}
+{"source_index": 423, "ratio": 0.2, "error": "compression failed after 5 attempts: model coverage is too low: target=119, actual=112, coverage=0.941, required=0.950"}
+{"source_index": 422, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=434, actual=316, coverage=0.728, required=0.950"}
+{"source_index": 423, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=474, actual=366, coverage=0.772, required=0.950"}
+{"source_index": 424, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=338, actual=303, coverage=0.896, required=0.950"}
+{"source_index": 429, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=208, actual=190, coverage=0.913, required=0.950"}
+{"source_index": 429, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=416, actual=336, coverage=0.808, required=0.950"}
+{"source_index": 430, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=400, actual=365, coverage=0.912, required=0.950"}
+{"source_index": 431, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=323, actual=263, coverage=0.814, required=0.950"}
+{"source_index": 432, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=312, actual=206, coverage=0.660, required=0.950"}
+{"source_index": 432, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=625, actual=198, coverage=0.317, required=0.950"}
+{"source_index": 432, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=469, actual=244, coverage=0.520, required=0.950"}
+{"source_index": 435, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=440, actual=417, coverage=0.948, required=0.950"}
+{"source_index": 436, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=496, actual=436, coverage=0.879, required=0.950"}
+{"source_index": 441, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=203, actual=176, coverage=0.867, required=0.950"}
+{"source_index": 440, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=394, actual=341, coverage=0.865, required=0.950"}
+{"source_index": 443, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=263, actual=221, coverage=0.840, required=0.950"}
+{"source_index": 445, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=197, actual=123, coverage=0.624, required=0.950"}
+{"source_index": 446, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=294, actual=271, coverage=0.922, required=0.950"}
+{"source_index": 446, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=392, actual=271, coverage=0.691, required=0.950"}
+{"source_index": 448, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=311, actual=262, coverage=0.842, required=0.950"}
+{"source_index": 451, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=398, actual=333, coverage=0.837, required=0.950"}
+{"source_index": 449, "ratio": 0.8, "error": "compression failed after 5 attempts: compressed_cot contains meta-instruction language"}
+{"source_index": 454, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=283, actual=214, coverage=0.756, required=0.950"}
+{"source_index": 454, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=377, actual=306, coverage=0.812, required=0.950"}
+{"source_index": 457, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=334, actual=291, coverage=0.871, required=0.950"}
+{"source_index": 458, "ratio": 0.8, "error": "compression failed after 5 attempts: compressed_cot contains meta-instruction language"}
+{"source_index": 462, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=274, actual=250, coverage=0.912, required=0.950"}
+{"source_index": 465, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=274, actual=210, coverage=0.766, required=0.950"}
+{"source_index": 467, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=327, actual=261, coverage=0.798, required=0.950"}
+{"source_index": 467, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=436, actual=385, coverage=0.883, required=0.950"}
+{"source_index": 468, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=265, actual=195, coverage=0.736, required=0.950"}
+{"source_index": 469, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=230, actual=198, coverage=0.861, required=0.950"}
+{"source_index": 469, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=307, actual=280, coverage=0.912, required=0.950"}
+{"source_index": 471, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=522, actual=239, coverage=0.458, required=0.950"}
+{"source_index": 471, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=392, actual=286, coverage=0.730, required=0.950"}
+{"source_index": 473, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=442, actual=384, coverage=0.869, required=0.950"}
+{"source_index": 475, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=200, actual=107, coverage=0.535, required=0.950"}
+{"source_index": 477, "ratio": 0.6, "error": "compression failed after 5 attempts: model coverage is too low: target=445, actual=228, coverage=0.512, required=0.950"}
+{"source_index": 477, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=594, actual=222, coverage=0.374, required=0.950"}
+{"source_index": 478, "ratio": 0.8, "error": "compression failed after 5 attempts: model coverage is too low: target=395, actual=317, coverage=0.803, required=0.950"}
+{"source_index": 482, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 482, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 482, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 483, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 483, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 483, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 483, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 484, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 484, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 484, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 484, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 485, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 485, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 479, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 485, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 485, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 486, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 486, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 486, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 486, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 487, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 487, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 480, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 487, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 488, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 487, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 488, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 488, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 488, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 489, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 489, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 489, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 489, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 490, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 490, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 490, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 490, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 491, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 491, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 491, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 491, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 492, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 492, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 492, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 492, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 493, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 493, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 493, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 494, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 494, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 493, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 494, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 494, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 495, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 495, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 495, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 496, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 496, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 495, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 496, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 496, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 497, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 497, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 497, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 497, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 498, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 498, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 498, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 498, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 499, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 499, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 499, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 499, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 500, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 500, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 500, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 500, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 501, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 501, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 501, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 501, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 502, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 502, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 502, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 502, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 503, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 503, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 503, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 503, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 504, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 504, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 504, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 504, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 505, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 505, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 505, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 505, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 506, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 506, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 506, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 506, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 507, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 507, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 507, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 507, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 508, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 508, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 508, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 509, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 509, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 508, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 509, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 509, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 510, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 510, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 510, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 511, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 510, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 511, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 511, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 511, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 512, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 512, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 512, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 512, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 513, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 513, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 513, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 513, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 514, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 514, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 514, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 514, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 515, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 515, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 515, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 515, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 516, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 516, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 516, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 516, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 517, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 517, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 517, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 517, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 518, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 518, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 518, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 518, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 519, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 519, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 519, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 519, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 520, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 520, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 520, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 520, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 521, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 521, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 521, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 521, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 522, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 522, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 522, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 522, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 523, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 523, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 523, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 523, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 524, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 524, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 524, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 524, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 525, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 525, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 525, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 525, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 526, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 526, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 526, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 526, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 527, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 527, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 527, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 527, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 528, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 528, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 528, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 528, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 529, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 529, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 529, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 529, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 530, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 530, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 530, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 531, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 531, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 530, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 531, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 531, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 532, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 532, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 532, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 532, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 533, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 533, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 533, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 533, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 534, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 534, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 534, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 534, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 535, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 535, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 535, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 535, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 536, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 536, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 536, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 536, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 537, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 537, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 537, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 537, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 538, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 538, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 538, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 539, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 539, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 538, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 539, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 539, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 540, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 540, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 540, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 540, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 541, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 541, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 541, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 542, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 541, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 542, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 542, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 542, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 543, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 543, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 543, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 543, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 544, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 544, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 544, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 544, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 545, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 545, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 545, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 545, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 546, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 546, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 546, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 546, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 547, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 547, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 547, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 548, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 548, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 547, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 548, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 548, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 549, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 549, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 549, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 550, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 549, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 550, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 550, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 550, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 551, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 551, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 551, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 551, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 552, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 552, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 552, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 552, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 553, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 553, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 553, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 553, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 554, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 554, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 554, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 554, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 555, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 555, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 555, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 555, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 556, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 556, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 556, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 556, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 557, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 557, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 557, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 557, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 558, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 558, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 558, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 558, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 559, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 559, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 559, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 559, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 560, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 560, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 560, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 560, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 561, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 561, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 561, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 561, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 562, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 562, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 562, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 562, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 563, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 563, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 563, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 563, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 564, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 564, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 564, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 564, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 565, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 565, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 565, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 565, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 566, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 566, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 566, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 566, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 567, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 567, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 567, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 567, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 568, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 568, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 568, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 568, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 569, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 569, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 569, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 569, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 570, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 570, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 570, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 571, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 570, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 571, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 571, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 571, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 572, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 572, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 572, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 573, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 572, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 573, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 573, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 573, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 574, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 574, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 574, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 574, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 575, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 575, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 575, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 576, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 575, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 576, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 576, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 576, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 577, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 577, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 577, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 578, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 578, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 577, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 578, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 578, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 579, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 579, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 579, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 580, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 580, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 579, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 580, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 580, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 581, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 581, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 581, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 582, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 581, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 582, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 582, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 582, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 583, "ratio": 0.2, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 583, "ratio": 0.4, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 583, "ratio": 0.6, "error": "DeepSeek account has insufficient balance"}
+{"source_index": 583, "ratio": 0.8, "error": "DeepSeek account has insufficient balance"}

@@ -1,0 +1,1 @@
+{"model_id": "deepseek", "round_id": 1, "success": false, "steps_used": 100, "round_time_sec": 0.722116248999555, "round_cot_tokens_sum": 38, "round_total_tokens_sum": 38, "avg_tokens_per_step": 38.0, "avg_step_infer_time_sec": 0.0, "token_count_fallback": true, "usage_prompt_tokens_sum": null, "usage_completion_tokens_sum": null, "usage_total_tokens_sum": null}

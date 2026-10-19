@@ -1,0 +1,42 @@
+{
+  "timestamp": "20251229_171535",
+  "mode": "dataset_cot0_refine_target_action",
+  "dataset_path": "./hunting_data_20251218_121900.jsonl",
+  "params": {
+    "grid_size": 20,
+    "max_steps": 100,
+    "temperature": 0.7,
+    "max_tokens": 2000,
+    "local_base_url": "http://127.0.0.1:8000/v1",
+    "remote_base_url": "https://api.siliconflow.cn/v1",
+    "backend": "openai",
+    "models": [
+      "deepseek"
+    ],
+    "seed": null,
+    "cot_refine": true,
+    "cot_refine_start": 0.1,
+    "cot_refine_step": 0.05,
+    "cot_refine_max": 1.0,
+    "cot_refine_temperature": 0.5,
+    "cot_refine_action_temperature": 0.5,
+    "cot_refine_action_max_tokens": 128,
+    "dataset_limit": null
+  },
+  "models": {
+    "deepseek": {
+      "model_id": "deepseek",
+      "dataset_path": "./hunting_data_20251218_121900.jsonl",
+      "total_records_seen": 1138,
+      "used_records": 1138,
+      "skipped_no_action_field": 0,
+      "refined_ok": 1124,
+      "refined_ok_rate": 0.9876977152899824,
+      "avg_attempts_when_ok": 2.078291814946619,
+      "mode": "dataset_cot0_refine_target_action"
+    }
+  },
+  "outputs": [
+    "统计目录/dataset_json/dataset_cot0_refine_target_action_deepseek_20251229_171535.jsonl"
+  ]
+}

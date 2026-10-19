@@ -1,0 +1,1 @@
+{"ts": 1766566875.4283113, "model_id": "deepseek", "round_done": 1, "total_rounds": 1, "success_rate": 0.0, "success_count": 0, "last_round_success": false, "last_round_steps": 100, "avg_round_time_sec_so_far": 0.722116248999555, "total_steps_so_far": 1, "fallback_steps_so_far": 1, "fallback_rate_so_far": 1.0, "parse_ok_steps_so_far": 0, "parse_ok_rate_so_far": 0.0}

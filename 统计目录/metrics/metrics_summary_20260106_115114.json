@@ -1,0 +1,55 @@
+{
+  "timestamp": "20260106_115114",
+  "params": {
+    "num_games": 50,
+    "max_steps": 100,
+    "grid_size": 20,
+    "temperature": 0.7,
+    "max_tokens": 700,
+    "local_base_url": "http://127.0.0.1:8000/v1",
+    "remote_base_url": "https://api.siliconflow.cn/v1",
+    "gpt_base_url": "https://api.chatanywhere.tech/v1",
+    "backend": "transformers",
+    "models": [
+      "qwen3_8b",
+      "qwen3_0.6b"
+    ],
+    "seed": null
+  },
+  "models": {
+    "qwen3_8b": {
+      "model_id": "qwen3_8b",
+      "num_games": 50,
+      "success_count": 0,
+      "success_rate": 0.0,
+      "avg_success_steps": 0.0,
+      "avg_steps_overall": 100.0,
+      "avg_round_time_sec": 20.3136692477396,
+      "avg_round_total_tokens": 0.0,
+      "avg_tokens_per_step": 0.0,
+      "avg_step_infer_time_sec": 20.30653190623736,
+      "token_count_fallback": false,
+      "avg_usage_prompt_tokens": null,
+      "avg_usage_completion_tokens": null,
+      "avg_usage_total_tokens": null,
+      "total_steps_recorded": 50
+    },
+    "qwen3_0.6b": {
+      "model_id": "qwen3_0.6b",
+      "num_games": 50,
+      "success_count": 0,
+      "success_rate": 0.0,
+      "avg_success_steps": 0.0,
+      "avg_steps_overall": 100.0,
+      "avg_round_time_sec": 15.713075684419309,
+      "avg_round_total_tokens": 0.0,
+      "avg_tokens_per_step": 0.0,
+      "avg_step_infer_time_sec": 15.706049810779223,
+      "token_count_fallback": false,
+      "avg_usage_prompt_tokens": null,
+      "avg_usage_completion_tokens": null,
+      "avg_usage_total_tokens": null,
+      "total_steps_recorded": 50
+    }
+  }
+}

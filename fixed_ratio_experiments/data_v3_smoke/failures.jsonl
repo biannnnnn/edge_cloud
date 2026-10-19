@@ -1,0 +1,1 @@
+{"source_index": 0, "ratio": 0.4, "error": "compression failed after 5 attempts: model coverage is too low: target=160, actual=148, coverage=0.925, required=0.950"}

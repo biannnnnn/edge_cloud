@@ -1,0 +1,859 @@
+source_records=584 pending_jobs=2336 model=deepseek-v4-pro
+FAILED index=2 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=174, actual=108, coverage=0.621, required=0.950
+completed=20/2336 failures=1
+FAILED index=1 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=338, actual=313, coverage=0.926, required=0.950
+FAILED index=6 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=514, actual=344, coverage=0.669, required=0.950
+completed=40/2336 failures=3
+FAILED index=8 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=303, actual=226, coverage=0.746, required=0.950
+FAILED index=10 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=428, actual=342, coverage=0.799, required=0.950
+FAILED index=12 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=288, actual=267, coverage=0.927, required=0.950
+FAILED index=12 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=577, actual=186, coverage=0.322, required=0.950
+completed=60/2336 failures=7
+FAILED index=14 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=212, actual=121, coverage=0.571, required=0.950
+completed=80/2336 failures=8
+FAILED index=18 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=415, actual=325, coverage=0.783, required=0.950
+FAILED index=19 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=298, actual=190, coverage=0.638, required=0.950
+completed=100/2336 failures=10
+FAILED index=26 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=319, actual=285, coverage=0.893, required=0.950
+FAILED index=25 ratio=80%: compression failed after 5 attempts: compressed_cot contains meta-instruction language
+FAILED index=26 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=426, actual=281, coverage=0.660, required=0.950
+completed=120/2336 failures=13
+FAILED index=29 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=446, actual=325, coverage=0.729, required=0.950
+completed=140/2336 failures=14
+FAILED index=34 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=194, actual=179, coverage=0.923, required=0.950
+FAILED index=37 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=350, actual=217, coverage=0.620, required=0.950
+completed=160/2336 failures=16
+FAILED index=40 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=330, actual=245, coverage=0.742, required=0.950
+FAILED index=40 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=661, actual=344, coverage=0.520, required=0.950
+FAILED index=41 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=419, actual=389, coverage=0.928, required=0.950
+FAILED index=41 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=558, actual=351, coverage=0.629, required=0.950
+completed=180/2336 failures=20
+FAILED index=45 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=411, actual=346, coverage=0.842, required=0.950
+FAILED index=46 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=247, actual=198, coverage=0.802, required=0.950
+FAILED index=47 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=478, actual=327, coverage=0.684, required=0.950
+FAILED index=47 ratio=60%: compression failed after 5 attempts: compressed_cot contains meta-instruction language
+completed=200/2336 failures=24
+FAILED index=48 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=497, actual=250, coverage=0.503, required=0.950
+FAILED index=52 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=396, actual=246, coverage=0.621, required=0.950
+FAILED index=52 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=595, actual=218, coverage=0.366, required=0.950
+FAILED index=52 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=793, actual=265, coverage=0.334, required=0.950
+completed=220/2336 failures=28
+FAILED index=54 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=220, actual=195, coverage=0.886, required=0.950
+FAILED index=57 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=507, actual=427, coverage=0.842, required=0.950
+FAILED index=59 ratio=20%: compression failed after 5 attempts: model coverage is too low: target=145, actual=131, coverage=0.903, required=0.950
+completed=240/2336 failures=31
+FAILED index=59 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=434, actual=277, coverage=0.638, required=0.950
+FAILED index=59 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=578, actual=478, coverage=0.827, required=0.950
+FAILED index=61 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=346, actual=202, coverage=0.584, required=0.950
+FAILED index=62 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=360, actual=250, coverage=0.694, required=0.950
+FAILED index=63 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=342, actual=303, coverage=0.886, required=0.950
+completed=260/2336 failures=36
+FAILED index=63 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=456, actual=239, coverage=0.524, required=0.950
+FAILED index=66 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=350, actual=247, coverage=0.706, required=0.950
+FAILED index=62 ratio=80%: compression failed after 5 attempts: incomplete API response: finish_reason=length
+FAILED index=66 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=467, actual=318, coverage=0.681, required=0.950
+completed=280/2336 failures=40
+FAILED index=69 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=301, actual=261, coverage=0.867, required=0.950
+FAILED index=69 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=402, actual=356, coverage=0.886, required=0.950
+completed=300/2336 failures=42
+FAILED index=76 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=287, actual=205, coverage=0.714, required=0.950
+FAILED index=76 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=574, actual=239, coverage=0.416, required=0.950
+completed=320/2336 failures=44
+completed=340/2336 failures=44
+FAILED index=82 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=294, actual=251, coverage=0.854, required=0.950
+FAILED index=82 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=392, actual=300, coverage=0.765, required=0.950
+FAILED index=87 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=409, actual=221, coverage=0.540, required=0.950
+FAILED index=88 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=255, actual=212, coverage=0.831, required=0.950
+FAILED index=87 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=546, actual=456, coverage=0.835, required=0.950
+completed=360/2336 failures=49
+FAILED index=88 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=510, actual=378, coverage=0.741, required=0.950
+FAILED index=89 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=438, actual=259, coverage=0.591, required=0.950
+FAILED index=92 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=509, actual=415, coverage=0.815, required=0.950
+FAILED index=93 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=318, actual=295, coverage=0.928, required=0.950
+completed=380/2336 failures=53
+FAILED index=94 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=265, actual=224, coverage=0.845, required=0.950
+FAILED index=94 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=354, actual=283, coverage=0.799, required=0.950
+FAILED index=95 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=461, actual=301, coverage=0.653, required=0.950
+FAILED index=96 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=416, actual=349, coverage=0.839, required=0.950
+completed=400/2336 failures=57
+FAILED index=97 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=649, actual=400, coverage=0.616, required=0.950
+FAILED index=100 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=182, actual=170, coverage=0.934, required=0.950
+FAILED index=99 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=313, actual=272, coverage=0.869, required=0.950
+FAILED index=100 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=365, actual=293, coverage=0.803, required=0.950
+FAILED index=101 ratio=80%: compression failed after 5 attempts: compressed_cot contains meta-instruction language
+FAILED index=102 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=434, actual=325, coverage=0.749, required=0.950
+FAILED index=102 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=578, actual=503, coverage=0.870, required=0.950
+completed=420/2336 failures=64
+FAILED index=103 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=481, actual=435, coverage=0.904, required=0.950
+FAILED index=103 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=642, actual=396, coverage=0.617, required=0.950
+FAILED index=105 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=351, actual=275, coverage=0.783, required=0.950
+FAILED index=106 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=351, actual=284, coverage=0.809, required=0.950
+FAILED index=107 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=504, actual=279, coverage=0.554, required=0.950
+FAILED index=108 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=581, actual=490, coverage=0.843, required=0.950
+completed=440/2336 failures=70
+FAILED index=110 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=162, actual=130, coverage=0.802, required=0.950
+FAILED index=109 ratio=60%: compression failed after 5 attempts: compressed_cot contains meta-instruction language
+FAILED index=109 ratio=80%: compression failed after 5 attempts: compressed_cot contains meta-instruction language
+completed=460/2336 failures=73
+FAILED index=118 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=2206, actual=326, coverage=0.148, required=0.950
+FAILED index=119 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=243, actual=210, coverage=0.864, required=0.950
+FAILED index=118 ratio=20%: compression failed after 5 attempts: incomplete API response: finish_reason=length
+FAILED index=118 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=1103, actual=483, coverage=0.438, required=0.950
+completed=480/2336 failures=77
+FAILED index=119 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=486, actual=422, coverage=0.868, required=0.950
+FAILED index=118 ratio=60%: compression failed after 5 attempts: incomplete API response: finish_reason=length
+FAILED index=120 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=387, actual=353, coverage=0.912, required=0.950
+FAILED index=120 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=516, actual=288, coverage=0.558, required=0.950
+FAILED index=121 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=365, actual=293, coverage=0.803, required=0.950
+FAILED index=122 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=374, actual=337, coverage=0.901, required=0.950
+completed=500/2336 failures=83
+FAILED index=123 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=454, actual=247, coverage=0.544, required=0.950
+FAILED index=124 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=505, actual=452, coverage=0.895, required=0.950
+FAILED index=127 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=445, actual=118, coverage=0.265, required=0.950
+FAILED index=129 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=222, actual=181, coverage=0.815, required=0.950
+completed=520/2336 failures=87
+FAILED index=129 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=334, actual=301, coverage=0.901, required=0.950
+FAILED index=131 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=393, actual=249, coverage=0.634, required=0.950
+FAILED index=133 ratio=40%: compression failed after 5 attempts: incomplete API response: finish_reason=length
+completed=540/2336 failures=90
+completed=560/2336 failures=90
+FAILED index=136 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=440, actual=396, coverage=0.900, required=0.950
+FAILED index=140 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=296, actual=275, coverage=0.929, required=0.950
+FAILED index=142 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=404, actual=337, coverage=0.834, required=0.950
+completed=580/2336 failures=93
+FAILED index=143 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=627, actual=501, coverage=0.799, required=0.950
+FAILED index=143 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=836, actual=560, coverage=0.670, required=0.950
+FAILED index=146 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=537, actual=507, coverage=0.944, required=0.950
+FAILED index=147 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=488, actual=424, coverage=0.869, required=0.950
+completed=600/2336 failures=97
+FAILED index=150 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=294, actual=157, coverage=0.534, required=0.950
+FAILED index=150 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=392, actual=156, coverage=0.398, required=0.950
+FAILED index=149 ratio=60%: compression failed after 5 attempts: compressed_cot contains meta-instruction language
+FAILED index=149 ratio=80%: compression failed after 5 attempts: compressed_cot contains meta-instruction language
+FAILED index=152 ratio=20%: compression failed after 5 attempts: model coverage is too low: target=178, actual=125, coverage=0.702, required=0.950
+FAILED index=152 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=356, actual=303, coverage=0.851, required=0.950
+FAILED index=152 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=713, actual=367, coverage=0.515, required=0.950
+completed=620/2336 failures=104
+FAILED index=155 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=210, actual=173, coverage=0.824, required=0.950
+FAILED index=156 ratio=20%: compression failed after 5 attempts: model coverage is too low: target=138, actual=109, coverage=0.790, required=0.950
+FAILED index=155 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=420, actual=343, coverage=0.817, required=0.950
+FAILED index=156 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=414, actual=353, coverage=0.853, required=0.950
+FAILED index=156 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=552, actual=508, coverage=0.920, required=0.950
+FAILED index=157 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=316, actual=276, coverage=0.873, required=0.950
+completed=640/2336 failures=110
+FAILED index=158 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=488, actual=359, coverage=0.736, required=0.950
+FAILED index=160 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=223, actual=197, coverage=0.883, required=0.950
+completed=660/2336 failures=112
+FAILED index=164 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=498, actual=310, coverage=0.622, required=0.950
+FAILED index=166 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=324, actual=198, coverage=0.611, required=0.950
+FAILED index=167 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=552, actual=357, coverage=0.647, required=0.950
+FAILED index=167 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=736, actual=640, coverage=0.870, required=0.950
+FAILED index=168 ratio=80%: compression failed after 5 attempts: compressed_cot contains meta-instruction language
+completed=680/2336 failures=117
+FAILED index=169 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=356, actual=225, coverage=0.632, required=0.950
+FAILED index=168 ratio=60%: compression failed after 5 attempts: compressed_cot contains meta-instruction language
+FAILED index=170 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=375, actual=201, coverage=0.536, required=0.950
+FAILED index=171 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=923, actual=225, coverage=0.244, required=0.950
+FAILED index=171 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=1385, actual=603, coverage=0.435, required=0.950
+FAILED index=172 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=280, actual=210, coverage=0.750, required=0.950
+FAILED index=171 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=1846, actual=641, coverage=0.347, required=0.950
+FAILED index=172 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=560, actual=359, coverage=0.641, required=0.950
+completed=700/2336 failures=125
+FAILED index=174 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=256, actual=142, coverage=0.555, required=0.950
+FAILED index=174 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=513, actual=411, coverage=0.801, required=0.950
+FAILED index=178 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=465, actual=434, coverage=0.933, required=0.950
+FAILED index=178 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=620, actual=494, coverage=0.797, required=0.950
+FAILED index=177 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=454, actual=421, coverage=0.927, required=0.950
+completed=720/2336 failures=130
+FAILED index=180 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=496, actual=458, coverage=0.923, required=0.950
+FAILED index=181 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=534, actual=190, coverage=0.356, required=0.950
+FAILED index=182 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=398, actual=309, coverage=0.776, required=0.950
+completed=740/2336 failures=133
+FAILED index=184 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=385, actual=319, coverage=0.829, required=0.950
+FAILED index=185 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=461, actual=418, coverage=0.907, required=0.950
+FAILED index=186 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=424, actual=327, coverage=0.771, required=0.950
+FAILED index=185 ratio=80%: compression failed after 5 attempts: compressed_cot contains meta-instruction language
+FAILED index=186 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=566, actual=306, coverage=0.541, required=0.950
+FAILED index=187 ratio=20%: compression failed after 5 attempts: model coverage is too low: target=226, actual=168, coverage=0.743, required=0.950
+FAILED index=187 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=905, actual=566, coverage=0.625, required=0.950
+FAILED index=187 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=679, actual=631, coverage=0.929, required=0.950
+completed=760/2336 failures=141
+completed=780/2336 failures=141
+completed=800/2336 failures=141
+FAILED index=198 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=263, actual=231, coverage=0.878, required=0.950
+FAILED index=199 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=406, actual=347, coverage=0.855, required=0.950
+completed=820/2336 failures=143
+FAILED index=203 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=391, actual=272, coverage=0.696, required=0.950
+FAILED index=204 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=280, actual=208, coverage=0.743, required=0.950
+FAILED index=204 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=373, actual=204, coverage=0.547, required=0.950
+FAILED index=205 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=270, actual=248, coverage=0.919, required=0.950
+FAILED index=206 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=221, actual=206, coverage=0.932, required=0.950
+FAILED index=206 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=442, actual=261, coverage=0.590, required=0.950
+FAILED index=207 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=433, actual=409, coverage=0.945, required=0.950
+completed=840/2336 failures=150
+FAILED index=209 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=295, actual=164, coverage=0.556, required=0.950
+FAILED index=209 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=394, actual=241, coverage=0.612, required=0.950
+FAILED index=211 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=231, actual=174, coverage=0.753, required=0.950
+FAILED index=211 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=347, actual=138, coverage=0.398, required=0.950
+FAILED index=211 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=462, actual=246, coverage=0.532, required=0.950
+completed=860/2336 failures=155
+FAILED index=214 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=354, actual=281, coverage=0.794, required=0.950
+FAILED index=215 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=704, actual=490, coverage=0.696, required=0.950
+FAILED index=216 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=390, actual=260, coverage=0.667, required=0.950
+FAILED index=218 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=326, actual=264, coverage=0.810, required=0.950
+completed=880/2336 failures=159
+FAILED index=219 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=379, actual=287, coverage=0.757, required=0.950
+FAILED index=219 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=506, actual=430, coverage=0.850, required=0.950
+FAILED index=221 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=410, actual=320, coverage=0.780, required=0.950
+FAILED index=222 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=467, actual=396, coverage=0.848, required=0.950
+completed=900/2336 failures=163
+FAILED index=224 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=330, actual=264, coverage=0.800, required=0.950
+completed=920/2336 failures=164
+FAILED index=230 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=456, actual=302, coverage=0.662, required=0.950
+FAILED index=231 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=376, actual=356, coverage=0.947, required=0.950
+FAILED index=231 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=501, actual=383, coverage=0.764, required=0.950
+FAILED index=233 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=312, actual=157, coverage=0.503, required=0.950
+FAILED index=233 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=416, actual=370, coverage=0.889, required=0.950
+FAILED index=234 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=358, actual=249, coverage=0.696, required=0.950
+completed=940/2336 failures=170
+FAILED index=234 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=477, actual=372, coverage=0.780, required=0.950
+completed=960/2336 failures=171
+FAILED index=238 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=341, actual=231, coverage=0.677, required=0.950
+FAILED index=241 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=439, actual=412, coverage=0.938, required=0.950
+FAILED index=243 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=247, actual=230, coverage=0.931, required=0.950
+FAILED index=243 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=371, actual=314, coverage=0.846, required=0.950
+completed=980/2336 failures=175
+FAILED index=244 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=199, actual=170, coverage=0.854, required=0.950
+completed=1000/2336 failures=176
+completed=1020/2336 failures=176
+FAILED index=255 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=572, actual=444, coverage=0.776, required=0.950
+FAILED index=256 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=364, actual=298, coverage=0.819, required=0.950
+FAILED index=257 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=281, actual=197, coverage=0.701, required=0.950
+completed=1040/2336 failures=179
+FAILED index=259 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=230, actual=217, coverage=0.943, required=0.950
+FAILED index=259 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=307, actual=224, coverage=0.730, required=0.950
+FAILED index=260 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=520, actual=407, coverage=0.783, required=0.950
+FAILED index=262 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=386, actual=200, coverage=0.518, required=0.950
+FAILED index=262 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=515, actual=235, coverage=0.456, required=0.950
+FAILED index=263 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=465, actual=397, coverage=0.854, required=0.950
+completed=1060/2336 failures=185
+FAILED index=264 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=558, actual=500, coverage=0.896, required=0.950
+FAILED index=264 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=744, actual=399, coverage=0.536, required=0.950
+FAILED index=265 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=386, actual=335, coverage=0.868, required=0.950
+FAILED index=266 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=442, actual=402, coverage=0.910, required=0.950
+completed=1080/2336 failures=189
+FAILED index=268 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=485, actual=387, coverage=0.798, required=0.950
+FAILED index=270 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=264, actual=237, coverage=0.898, required=0.950
+FAILED index=273 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=310, actual=213, coverage=0.687, required=0.950
+FAILED index=273 ratio=60%: compression failed after 5 attempts: compressed_cot contains meta-instruction language
+FAILED index=274 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=413, actual=295, coverage=0.714, required=0.950
+completed=1100/2336 failures=194
+FAILED index=273 ratio=80%: compression failed after 5 attempts: compressed_cot contains meta-instruction language
+FAILED index=276 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=445, actual=321, coverage=0.721, required=0.950
+FAILED index=279 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=341, actual=293, coverage=0.859, required=0.950
+FAILED index=279 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=682, actual=287, coverage=0.421, required=0.950
+completed=1120/2336 failures=198
+FAILED index=279 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=511, actual=367, coverage=0.718, required=0.950
+FAILED index=280 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=134, actual=112, coverage=0.836, required=0.950
+completed=1140/2336 failures=200
+FAILED index=284 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=296, actual=269, coverage=0.909, required=0.950
+FAILED index=287 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=291, actual=257, coverage=0.883, required=0.950
+completed=1160/2336 failures=202
+FAILED index=288 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=421, actual=382, coverage=0.907, required=0.950
+FAILED index=290 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=356, actual=307, coverage=0.862, required=0.950
+FAILED index=291 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=446, actual=350, coverage=0.785, required=0.950
+FAILED index=293 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=222, actual=173, coverage=0.779, required=0.950
+FAILED index=292 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=447, actual=407, coverage=0.911, required=0.950
+FAILED index=293 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=443, actual=201, coverage=0.454, required=0.950
+FAILED index=294 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=394, actual=333, coverage=0.845, required=0.950
+completed=1180/2336 failures=209
+FAILED index=295 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=298, actual=272, coverage=0.913, required=0.950
+FAILED index=295 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=448, actual=363, coverage=0.810, required=0.950
+FAILED index=295 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=597, actual=361, coverage=0.605, required=0.950
+FAILED index=297 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=247, actual=178, coverage=0.721, required=0.950
+completed=1200/2336 failures=213
+FAILED index=300 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=406, actual=377, coverage=0.929, required=0.950
+FAILED index=299 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=521, actual=478, coverage=0.917, required=0.950
+FAILED index=301 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=284, actual=254, coverage=0.894, required=0.950
+completed=1220/2336 failures=216
+FAILED index=303 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=380, actual=294, coverage=0.774, required=0.950
+FAILED index=305 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=218, actual=182, coverage=0.835, required=0.950
+FAILED index=307 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=228, actual=150, coverage=0.658, required=0.950
+FAILED index=308 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=245, actual=190, coverage=0.776, required=0.950
+FAILED index=309 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=362, actual=230, coverage=0.635, required=0.950
+completed=1240/2336 failures=221
+FAILED index=309 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=543, actual=436, coverage=0.803, required=0.950
+FAILED index=309 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=724, actual=645, coverage=0.891, required=0.950
+FAILED index=310 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=454, actual=368, coverage=0.811, required=0.950
+FAILED index=310 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=606, actual=460, coverage=0.759, required=0.950
+FAILED index=312 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=205, actual=180, coverage=0.878, required=0.950
+completed=1260/2336 failures=226
+completed=1280/2336 failures=226
+FAILED index=317 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=389, actual=268, coverage=0.689, required=0.950
+completed=1300/2336 failures=227
+FAILED index=326 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=436, actual=280, coverage=0.642, required=0.950
+FAILED index=328 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=269, actual=250, coverage=0.929, required=0.950
+FAILED index=327 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=526, actual=352, coverage=0.669, required=0.950
+FAILED index=328 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=359, actual=282, coverage=0.786, required=0.950
+completed=1320/2336 failures=231
+FAILED index=330 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=526, actual=179, coverage=0.340, required=0.950
+FAILED index=330 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=394, actual=297, coverage=0.754, required=0.950
+FAILED index=329 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=687, actual=561, coverage=0.817, required=0.950
+FAILED index=333 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=153, actual=136, coverage=0.889, required=0.950
+FAILED index=333 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=306, actual=267, coverage=0.873, required=0.950
+completed=1340/2336 failures=236
+FAILED index=335 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=287, actual=231, coverage=0.805, required=0.950
+FAILED index=336 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=301, actual=248, coverage=0.824, required=0.950
+FAILED index=331 ratio=80%: compression failed after 5 attempts: incomplete API response: finish_reason=length
+completed=1360/2336 failures=239
+FAILED index=339 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=513, actual=339, coverage=0.661, required=0.950
+FAILED index=339 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=684, actual=421, coverage=0.615, required=0.950
+FAILED index=341 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=505, actual=420, coverage=0.832, required=0.950
+completed=1380/2336 failures=242
+FAILED index=344 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=361, actual=182, coverage=0.504, required=0.950
+FAILED index=343 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=498, actual=444, coverage=0.892, required=0.950
+FAILED index=344 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=482, actual=360, coverage=0.747, required=0.950
+FAILED index=346 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=255, actual=129, coverage=0.506, required=0.950
+FAILED index=346 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=382, actual=238, coverage=0.623, required=0.950
+FAILED index=345 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=683, actual=558, coverage=0.817, required=0.950
+FAILED index=346 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=510, actual=354, coverage=0.694, required=0.950
+FAILED index=347 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=402, actual=295, coverage=0.734, required=0.950
+FAILED index=350 ratio=20%: compression failed after 5 attempts: model coverage is too low: target=162, actual=149, coverage=0.920, required=0.950
+completed=1400/2336 failures=251
+FAILED index=349 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=450, actual=399, coverage=0.887, required=0.950
+FAILED index=350 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=324, actual=271, coverage=0.836, required=0.950
+FAILED index=350 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=486, actual=324, coverage=0.667, required=0.950
+FAILED index=350 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=648, actual=479, coverage=0.739, required=0.950
+FAILED index=352 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=146, actual=135, coverage=0.925, required=0.950
+FAILED index=353 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=307, actual=260, coverage=0.847, required=0.950
+completed=1420/2336 failures=257
+FAILED index=355 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=257, actual=175, coverage=0.681, required=0.950
+FAILED index=355 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=385, actual=300, coverage=0.779, required=0.950
+FAILED index=356 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=261, actual=235, coverage=0.900, required=0.950
+FAILED index=355 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=514, actual=361, coverage=0.702, required=0.950
+completed=1440/2336 failures=261
+FAILED index=362 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=353, actual=268, coverage=0.759, required=0.950
+completed=1460/2336 failures=262
+FAILED index=362 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=471, actual=384, coverage=0.815, required=0.950
+completed=1480/2336 failures=263
+FAILED index=367 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=352, actual=289, coverage=0.821, required=0.950
+FAILED index=372 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=274, actual=214, coverage=0.781, required=0.950
+FAILED index=371 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=536, actual=291, coverage=0.543, required=0.950
+FAILED index=372 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=411, actual=383, coverage=0.932, required=0.950
+completed=1500/2336 failures=267
+FAILED index=374 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=274, actual=249, coverage=0.909, required=0.950
+FAILED index=376 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=349, actual=176, coverage=0.504, required=0.950
+completed=1520/2336 failures=269
+FAILED index=378 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=211, actual=189, coverage=0.896, required=0.950
+completed=1540/2336 failures=270
+FAILED index=386 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=444, actual=351, coverage=0.791, required=0.950
+completed=1560/2336 failures=271
+FAILED index=391 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=490, actual=377, coverage=0.769, required=0.950
+FAILED index=392 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=394, actual=309, coverage=0.784, required=0.950
+FAILED index=393 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=417, actual=232, coverage=0.556, required=0.950
+completed=1580/2336 failures=274
+FAILED index=394 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=450, actual=378, coverage=0.840, required=0.950
+FAILED index=394 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=600, actual=566, coverage=0.943, required=0.950
+completed=1600/2336 failures=276
+FAILED index=397 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=478, actual=366, coverage=0.766, required=0.950
+FAILED index=399 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=224, actual=189, coverage=0.844, required=0.950
+completed=1620/2336 failures=278
+FAILED index=402 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=386, actual=307, coverage=0.795, required=0.950
+FAILED index=405 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=318, actual=252, coverage=0.792, required=0.950
+FAILED index=406 ratio=20%: compression failed after 5 attempts: model coverage is too low: target=217, actual=158, coverage=0.728, required=0.950
+FAILED index=406 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=433, actual=380, coverage=0.878, required=0.950
+FAILED index=407 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=434, actual=370, coverage=0.853, required=0.950
+FAILED index=407 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=578, actual=423, coverage=0.732, required=0.950
+FAILED index=406 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=866, actual=303, coverage=0.350, required=0.950
+completed=1640/2336 failures=285
+FAILED index=408 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=520, actual=152, coverage=0.292, required=0.950
+FAILED index=411 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=222, actual=198, coverage=0.892, required=0.950
+completed=1660/2336 failures=287
+FAILED index=415 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=377, actual=355, coverage=0.942, required=0.950
+completed=1680/2336 failures=288
+FAILED index=420 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=222, actual=210, coverage=0.946, required=0.950
+FAILED index=420 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=296, actual=275, coverage=0.929, required=0.950
+FAILED index=421 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=357, actual=239, coverage=0.669, required=0.950
+FAILED index=421 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=476, actual=298, coverage=0.626, required=0.950
+FAILED index=423 ratio=20%: compression failed after 5 attempts: model coverage is too low: target=119, actual=112, coverage=0.941, required=0.950
+FAILED index=422 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=434, actual=316, coverage=0.728, required=0.950
+completed=1700/2336 failures=294
+FAILED index=423 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=474, actual=366, coverage=0.772, required=0.950
+FAILED index=424 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=338, actual=303, coverage=0.896, required=0.950
+completed=1720/2336 failures=296
+FAILED index=429 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=208, actual=190, coverage=0.913, required=0.950
+FAILED index=429 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=416, actual=336, coverage=0.808, required=0.950
+FAILED index=430 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=400, actual=365, coverage=0.912, required=0.950
+FAILED index=431 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=323, actual=263, coverage=0.814, required=0.950
+FAILED index=432 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=312, actual=206, coverage=0.660, required=0.950
+FAILED index=432 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=625, actual=198, coverage=0.317, required=0.950
+FAILED index=432 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=469, actual=244, coverage=0.520, required=0.950
+completed=1740/2336 failures=303
+FAILED index=435 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=440, actual=417, coverage=0.948, required=0.950
+FAILED index=436 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=496, actual=436, coverage=0.879, required=0.950
+completed=1760/2336 failures=305
+FAILED index=441 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=203, actual=176, coverage=0.867, required=0.950
+FAILED index=440 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=394, actual=341, coverage=0.865, required=0.950
+completed=1780/2336 failures=307
+FAILED index=443 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=263, actual=221, coverage=0.840, required=0.950
+FAILED index=445 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=197, actual=123, coverage=0.624, required=0.950
+FAILED index=446 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=294, actual=271, coverage=0.922, required=0.950
+FAILED index=446 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=392, actual=271, coverage=0.691, required=0.950
+completed=1800/2336 failures=311
+FAILED index=448 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=311, actual=262, coverage=0.842, required=0.950
+FAILED index=451 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=398, actual=333, coverage=0.837, required=0.950
+FAILED index=449 ratio=80%: compression failed after 5 attempts: compressed_cot contains meta-instruction language
+completed=1820/2336 failures=314
+FAILED index=454 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=283, actual=214, coverage=0.756, required=0.950
+FAILED index=454 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=377, actual=306, coverage=0.812, required=0.950
+completed=1840/2336 failures=316
+FAILED index=457 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=334, actual=291, coverage=0.871, required=0.950
+FAILED index=458 ratio=80%: compression failed after 5 attempts: compressed_cot contains meta-instruction language
+completed=1860/2336 failures=318
+FAILED index=462 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=274, actual=250, coverage=0.912, required=0.950
+FAILED index=465 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=274, actual=210, coverage=0.766, required=0.950
+FAILED index=467 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=327, actual=261, coverage=0.798, required=0.950
+FAILED index=467 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=436, actual=385, coverage=0.883, required=0.950
+FAILED index=468 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=265, actual=195, coverage=0.736, required=0.950
+completed=1880/2336 failures=323
+FAILED index=469 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=230, actual=198, coverage=0.861, required=0.950
+FAILED index=469 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=307, actual=280, coverage=0.912, required=0.950
+FAILED index=471 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=522, actual=239, coverage=0.458, required=0.950
+FAILED index=471 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=392, actual=286, coverage=0.730, required=0.950
+completed=1900/2336 failures=327
+FAILED index=473 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=442, actual=384, coverage=0.869, required=0.950
+FAILED index=475 ratio=40%: compression failed after 5 attempts: model coverage is too low: target=200, actual=107, coverage=0.535, required=0.950
+FAILED index=477 ratio=60%: compression failed after 5 attempts: model coverage is too low: target=445, actual=228, coverage=0.512, required=0.950
+FAILED index=477 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=594, actual=222, coverage=0.374, required=0.950
+FAILED index=478 ratio=80%: compression failed after 5 attempts: model coverage is too low: target=395, actual=317, coverage=0.803, required=0.950
+completed=1920/2336 failures=332
+FAILED index=482 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=482 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=482 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=483 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=483 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=483 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=483 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=484 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=484 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=484 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=484 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=485 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=485 ratio=40%: DeepSeek account has insufficient balance
+completed=1940/2336 failures=345
+FAILED index=479 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=485 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=485 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=486 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=486 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=486 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=486 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=487 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=487 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=480 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=487 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=488 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=487 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=488 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=488 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=488 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=489 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=489 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=489 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=489 ratio=80%: DeepSeek account has insufficient balance
+completed=1960/2336 failures=365
+FAILED index=490 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=490 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=490 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=490 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=491 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=491 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=491 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=491 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=492 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=492 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=492 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=492 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=493 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=493 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=493 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=494 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=494 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=493 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=494 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=494 ratio=80%: DeepSeek account has insufficient balance
+completed=1980/2336 failures=385
+FAILED index=495 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=495 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=495 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=496 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=496 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=495 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=496 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=496 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=497 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=497 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=497 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=497 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=498 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=498 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=498 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=498 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=499 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=499 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=499 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=499 ratio=80%: DeepSeek account has insufficient balance
+completed=2000/2336 failures=405
+FAILED index=500 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=500 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=500 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=500 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=501 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=501 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=501 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=501 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=502 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=502 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=502 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=502 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=503 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=503 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=503 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=503 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=504 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=504 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=504 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=504 ratio=80%: DeepSeek account has insufficient balance
+completed=2020/2336 failures=425
+FAILED index=505 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=505 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=505 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=505 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=506 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=506 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=506 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=506 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=507 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=507 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=507 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=507 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=508 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=508 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=508 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=509 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=509 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=508 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=509 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=509 ratio=80%: DeepSeek account has insufficient balance
+completed=2040/2336 failures=445
+FAILED index=510 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=510 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=510 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=511 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=510 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=511 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=511 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=511 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=512 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=512 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=512 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=512 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=513 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=513 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=513 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=513 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=514 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=514 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=514 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=514 ratio=80%: DeepSeek account has insufficient balance
+completed=2060/2336 failures=465
+FAILED index=515 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=515 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=515 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=515 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=516 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=516 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=516 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=516 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=517 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=517 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=517 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=517 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=518 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=518 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=518 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=518 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=519 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=519 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=519 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=519 ratio=80%: DeepSeek account has insufficient balance
+completed=2080/2336 failures=485
+FAILED index=520 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=520 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=520 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=520 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=521 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=521 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=521 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=521 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=522 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=522 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=522 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=522 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=523 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=523 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=523 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=523 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=524 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=524 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=524 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=524 ratio=60%: DeepSeek account has insufficient balance
+completed=2100/2336 failures=505
+FAILED index=525 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=525 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=525 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=525 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=526 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=526 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=526 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=526 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=527 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=527 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=527 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=527 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=528 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=528 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=528 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=528 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=529 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=529 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=529 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=529 ratio=80%: DeepSeek account has insufficient balance
+completed=2120/2336 failures=525
+FAILED index=530 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=530 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=530 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=531 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=531 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=530 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=531 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=531 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=532 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=532 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=532 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=532 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=533 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=533 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=533 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=533 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=534 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=534 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=534 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=534 ratio=80%: DeepSeek account has insufficient balance
+completed=2140/2336 failures=545
+FAILED index=535 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=535 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=535 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=535 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=536 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=536 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=536 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=536 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=537 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=537 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=537 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=537 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=538 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=538 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=538 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=539 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=539 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=538 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=539 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=539 ratio=80%: DeepSeek account has insufficient balance
+completed=2160/2336 failures=565
+FAILED index=540 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=540 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=540 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=540 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=541 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=541 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=541 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=542 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=541 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=542 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=542 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=542 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=543 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=543 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=543 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=543 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=544 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=544 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=544 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=544 ratio=80%: DeepSeek account has insufficient balance
+completed=2180/2336 failures=585
+FAILED index=545 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=545 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=545 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=545 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=546 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=546 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=546 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=546 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=547 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=547 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=547 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=548 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=548 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=547 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=548 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=548 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=549 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=549 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=549 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=550 ratio=20%: DeepSeek account has insufficient balance
+completed=2200/2336 failures=605
+FAILED index=549 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=550 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=550 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=550 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=551 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=551 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=551 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=551 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=552 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=552 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=552 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=552 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=553 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=553 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=553 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=553 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=554 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=554 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=554 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=554 ratio=80%: DeepSeek account has insufficient balance
+completed=2220/2336 failures=625
+FAILED index=555 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=555 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=555 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=555 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=556 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=556 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=556 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=556 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=557 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=557 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=557 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=557 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=558 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=558 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=558 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=558 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=559 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=559 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=559 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=559 ratio=80%: DeepSeek account has insufficient balance
+completed=2240/2336 failures=645
+FAILED index=560 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=560 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=560 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=560 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=561 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=561 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=561 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=561 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=562 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=562 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=562 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=562 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=563 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=563 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=563 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=563 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=564 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=564 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=564 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=564 ratio=80%: DeepSeek account has insufficient balance
+completed=2260/2336 failures=665
+FAILED index=565 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=565 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=565 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=565 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=566 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=566 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=566 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=566 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=567 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=567 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=567 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=567 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=568 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=568 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=568 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=568 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=569 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=569 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=569 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=569 ratio=80%: DeepSeek account has insufficient balance
+completed=2280/2336 failures=685
+FAILED index=570 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=570 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=570 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=571 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=570 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=571 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=571 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=571 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=572 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=572 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=572 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=573 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=572 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=573 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=573 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=573 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=574 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=574 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=574 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=574 ratio=80%: DeepSeek account has insufficient balance
+completed=2300/2336 failures=705
+FAILED index=575 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=575 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=575 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=576 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=575 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=576 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=576 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=576 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=577 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=577 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=577 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=578 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=578 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=577 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=578 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=578 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=579 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=579 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=579 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=580 ratio=20%: DeepSeek account has insufficient balance
+completed=2320/2336 failures=725
+FAILED index=580 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=579 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=580 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=580 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=581 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=581 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=581 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=582 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=581 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=582 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=582 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=582 ratio=80%: DeepSeek account has insufficient balance
+FAILED index=583 ratio=20%: DeepSeek account has insufficient balance
+FAILED index=583 ratio=40%: DeepSeek account has insufficient balance
+FAILED index=583 ratio=60%: DeepSeek account has insufficient balance
+FAILED index=583 ratio=80%: DeepSeek account has insufficient balance
+completed=2336/2336 failures=741

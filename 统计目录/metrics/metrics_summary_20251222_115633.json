@@ -1,0 +1,37 @@
+{
+  "timestamp": "20251222_115633",
+  "params": {
+    "num_games": 50,
+    "max_steps": 100,
+    "grid_size": 20,
+    "temperature": 0.7,
+    "max_tokens": 2000,
+    "local_base_url": "http://127.0.0.1:8000/v1",
+    "remote_base_url": "https://api.siliconflow.cn/v1",
+    "backend": "openai",
+    "models": [
+      "deepseek"
+    ],
+    "seed": null
+  },
+  "models": {
+    "deepseek": {
+      "model_id": "deepseek",
+      "num_games": 50,
+      "success_count": 49,
+      "success_rate": 0.98,
+      "avg_success_steps": 32.89795918367347,
+      "avg_steps_overall": 34.24,
+      "avg_round_time_sec": 1083.290353512984,
+      "avg_round_cot_tokens": 20714.66,
+      "avg_round_total_tokens": 21433.7,
+      "avg_tokens_per_step": 625.9842289719626,
+      "avg_step_infer_time_sec": 31.636203365330903,
+      "token_count_fallback": true,
+      "avg_usage_prompt_tokens": 16880.32,
+      "avg_usage_completion_tokens": 26831.82,
+      "avg_usage_total_tokens": 43712.14,
+      "total_steps_recorded": 1712
+    }
+  }
+}

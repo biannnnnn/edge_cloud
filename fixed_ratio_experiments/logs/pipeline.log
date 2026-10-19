@@ -1,0 +1,990 @@
+source_records=792 pending_jobs=3160 model=deepseek-v4-pro
+completed=20/3160 failures=0
+completed=40/3160 failures=0
+completed=60/3160 failures=0
+completed=80/3160 failures=0
+completed=100/3160 failures=0
+completed=120/3160 failures=0
+completed=140/3160 failures=0
+completed=160/3160 failures=0
+completed=180/3160 failures=0
+completed=200/3160 failures=0
+completed=220/3160 failures=0
+completed=240/3160 failures=0
+completed=260/3160 failures=0
+completed=280/3160 failures=0
+completed=300/3160 failures=0
+completed=320/3160 failures=0
+completed=340/3160 failures=0
+completed=360/3160 failures=0
+completed=380/3160 failures=0
+completed=400/3160 failures=0
+completed=420/3160 failures=0
+completed=440/3160 failures=0
+completed=460/3160 failures=0
+completed=480/3160 failures=0
+completed=500/3160 failures=0
+completed=520/3160 failures=0
+completed=540/3160 failures=0
+completed=560/3160 failures=0
+completed=580/3160 failures=0
+completed=600/3160 failures=0
+completed=620/3160 failures=0
+completed=640/3160 failures=0
+completed=660/3160 failures=0
+completed=680/3160 failures=0
+completed=700/3160 failures=0
+completed=720/3160 failures=0
+completed=740/3160 failures=0
+completed=760/3160 failures=0
+completed=780/3160 failures=0
+completed=800/3160 failures=0
+completed=820/3160 failures=0
+completed=840/3160 failures=0
+completed=860/3160 failures=0
+completed=880/3160 failures=0
+completed=900/3160 failures=0
+completed=920/3160 failures=0
+completed=940/3160 failures=0
+completed=960/3160 failures=0
+completed=980/3160 failures=0
+completed=1000/3160 failures=0
+completed=1020/3160 failures=0
+completed=1040/3160 failures=0
+completed=1060/3160 failures=0
+completed=1080/3160 failures=0
+completed=1100/3160 failures=0
+completed=1120/3160 failures=0
+completed=1140/3160 failures=0
+completed=1160/3160 failures=0
+completed=1180/3160 failures=0
+completed=1200/3160 failures=0
+completed=1220/3160 failures=0
+completed=1240/3160 failures=0
+completed=1260/3160 failures=0
+completed=1280/3160 failures=0
+completed=1300/3160 failures=0
+completed=1320/3160 failures=0
+completed=1340/3160 failures=0
+completed=1360/3160 failures=0
+completed=1380/3160 failures=0
+completed=1400/3160 failures=0
+completed=1420/3160 failures=0
+completed=1440/3160 failures=0
+completed=1460/3160 failures=0
+completed=1480/3160 failures=0
+completed=1500/3160 failures=0
+completed=1520/3160 failures=0
+completed=1540/3160 failures=0
+completed=1560/3160 failures=0
+completed=1580/3160 failures=0
+completed=1600/3160 failures=0
+completed=1620/3160 failures=0
+completed=1640/3160 failures=0
+completed=1660/3160 failures=0
+completed=1680/3160 failures=0
+completed=1700/3160 failures=0
+completed=1720/3160 failures=0
+completed=1740/3160 failures=0
+completed=1760/3160 failures=0
+completed=1780/3160 failures=0
+completed=1800/3160 failures=0
+completed=1820/3160 failures=0
+completed=1840/3160 failures=0
+completed=1860/3160 failures=0
+completed=1880/3160 failures=0
+completed=1900/3160 failures=0
+completed=1920/3160 failures=0
+completed=1940/3160 failures=0
+completed=1960/3160 failures=0
+completed=1980/3160 failures=0
+completed=2000/3160 failures=0
+completed=2020/3160 failures=0
+completed=2040/3160 failures=0
+completed=2060/3160 failures=0
+completed=2080/3160 failures=0
+completed=2100/3160 failures=0
+completed=2120/3160 failures=0
+completed=2140/3160 failures=0
+completed=2160/3160 failures=0
+completed=2180/3160 failures=0
+completed=2200/3160 failures=0
+completed=2220/3160 failures=0
+completed=2240/3160 failures=0
+completed=2260/3160 failures=0
+completed=2280/3160 failures=0
+completed=2300/3160 failures=0
+completed=2320/3160 failures=0
+FAILED index=584 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=584 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=584 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=585 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=585 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=585 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=585 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=586 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=586 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=586 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=586 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=2340/3160 failures=11
+FAILED index=587 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=587 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=587 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=587 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=588 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=588 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=588 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=588 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=589 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=589 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=589 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=589 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=590 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=590 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=590 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=590 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=591 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=591 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=591 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=591 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=2360/3160 failures=31
+FAILED index=592 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=592 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=592 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=592 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=593 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=593 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=593 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=593 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=594 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=594 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=594 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=594 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=595 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=595 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=595 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=595 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=596 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=596 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=596 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=596 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=2380/3160 failures=51
+FAILED index=597 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=597 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=597 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=597 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=598 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=598 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=598 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=598 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=599 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=599 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=599 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=599 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=600 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=600 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=600 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=600 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=601 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=601 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=601 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=601 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=2400/3160 failures=71
+FAILED index=602 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=602 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=602 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=602 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=603 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=603 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=603 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=604 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=603 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=604 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=604 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=604 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=605 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=605 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=605 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=605 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=606 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=606 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=606 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=607 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=2420/3160 failures=91
+FAILED index=606 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=607 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=607 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=607 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=608 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=608 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=608 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=608 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=609 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=609 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=609 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=609 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=610 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=610 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=610 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=610 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=611 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=611 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=612 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=611 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=2440/3160 failures=111
+FAILED index=611 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=612 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=612 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=612 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=613 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=613 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=613 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=613 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=614 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=614 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=614 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=615 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=614 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=615 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=615 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=615 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=616 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=616 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=616 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=617 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=2460/3160 failures=131
+FAILED index=616 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=617 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=617 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=617 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=618 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=618 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=618 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=618 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=619 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=619 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=620 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=619 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=619 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=620 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=620 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=621 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=620 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=621 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=622 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=621 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=2480/3160 failures=151
+FAILED index=621 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=622 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=622 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=623 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=622 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=623 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=623 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=624 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=623 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=624 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=624 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=624 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=625 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=625 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=625 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=625 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=626 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=626 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=626 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=626 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=2500/3160 failures=171
+FAILED index=627 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=627 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=628 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=627 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=627 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=628 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=628 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=629 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=628 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=629 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=629 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=629 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=630 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=630 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=630 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=630 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=631 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=631 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=631 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=631 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=2520/3160 failures=191
+FAILED index=632 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=632 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=632 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=633 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=632 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=633 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=633 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=633 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=634 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=634 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=634 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=634 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=635 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=635 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=635 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=635 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=636 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=636 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=636 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=636 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=2540/3160 failures=211
+FAILED index=637 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=637 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=637 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=637 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=638 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=638 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=638 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=638 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=639 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=639 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=639 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=639 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=640 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=640 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=640 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=640 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=641 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=641 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=641 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=641 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=2560/3160 failures=231
+FAILED index=642 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=642 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=642 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=642 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=643 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=643 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=643 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=643 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=644 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=644 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=644 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=644 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=645 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=645 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=645 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=645 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=646 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=646 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=646 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=646 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=2580/3160 failures=251
+FAILED index=647 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=647 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=647 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=647 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=648 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=648 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=648 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=648 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=649 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=649 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=649 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=649 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=650 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=650 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=650 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=650 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=651 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=651 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=651 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=651 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=2600/3160 failures=271
+FAILED index=652 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=652 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=652 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=652 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=653 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=653 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=653 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=653 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=654 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=654 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=654 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=655 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=654 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=655 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=655 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=655 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=656 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=656 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=656 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=656 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=2620/3160 failures=291
+FAILED index=657 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=657 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=658 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=657 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=657 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=658 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=658 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=658 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=659 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=659 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=659 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=659 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=660 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=660 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=660 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=661 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=660 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=661 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=661 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=662 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=2640/3160 failures=311
+FAILED index=661 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=662 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=662 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=663 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=662 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=663 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=663 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=664 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=663 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=664 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=664 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=665 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=664 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=665 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=665 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=666 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=665 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=666 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=666 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=667 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=2660/3160 failures=331
+FAILED index=666 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=667 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=667 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=668 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=667 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=668 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=668 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=668 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=669 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=669 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=670 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=669 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=669 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=670 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=670 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=670 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=671 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=671 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=671 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=671 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=2680/3160 failures=351
+FAILED index=672 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=672 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=672 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=672 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=673 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=673 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=673 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=673 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=674 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=674 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=674 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=674 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=675 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=675 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=675 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=675 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=676 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=676 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=676 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=676 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=2700/3160 failures=371
+FAILED index=677 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=677 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=677 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=677 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=678 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=678 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=678 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=678 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=679 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=679 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=679 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=679 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=680 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=680 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=680 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=680 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=681 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=681 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=682 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=681 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=2720/3160 failures=391
+FAILED index=681 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=682 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=682 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=683 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=682 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=683 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=683 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=683 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=684 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=684 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=684 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=684 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=685 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=685 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=685 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=686 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=685 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=686 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=686 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=686 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=2740/3160 failures=411
+FAILED index=687 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=687 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=687 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=688 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=687 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=688 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=688 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=689 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=688 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=689 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=689 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=689 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=690 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=690 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=690 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=690 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=691 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=691 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=691 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=692 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=2760/3160 failures=431
+FAILED index=691 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=692 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=692 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=692 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=693 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=693 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=693 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=693 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=694 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=694 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=695 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=694 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=694 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=695 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=695 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=695 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=696 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=696 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=696 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=696 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=2780/3160 failures=451
+FAILED index=697 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=697 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=697 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=697 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=698 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=698 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=698 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=699 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=698 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=699 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=700 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=699 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=699 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=700 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=700 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=701 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=700 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=701 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=701 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=702 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=2800/3160 failures=471
+FAILED index=701 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=702 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=702 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=702 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=703 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=703 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=703 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=703 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=704 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=704 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=704 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=704 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=705 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=705 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=705 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=705 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=706 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=706 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=706 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=706 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=2820/3160 failures=491
+FAILED index=707 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=707 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=707 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=708 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=707 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=708 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=708 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=709 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=708 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=709 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=709 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=710 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=709 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=710 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=710 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=711 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=710 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=711 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=711 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=712 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=2840/3160 failures=511
+FAILED index=711 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=712 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=712 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=712 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=713 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=713 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=713 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=713 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=714 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=714 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=714 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=714 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=715 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=715 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=715 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=715 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=716 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=716 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=716 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=716 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=2860/3160 failures=531
+FAILED index=717 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=717 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=717 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=717 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=718 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=718 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=718 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=719 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=718 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=719 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=719 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=719 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=720 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=720 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=720 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=720 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=721 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=721 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=721 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=721 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=2880/3160 failures=551
+FAILED index=722 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=722 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=722 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=722 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=723 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=723 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=723 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=723 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=724 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=724 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=724 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=725 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=724 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=725 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=725 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=725 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=726 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=726 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=726 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=727 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=2900/3160 failures=571
+FAILED index=726 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=727 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=727 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=727 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=728 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=728 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=728 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=728 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=729 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=729 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=729 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=730 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=729 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=730 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=730 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=730 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=731 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=731 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=731 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=731 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=2920/3160 failures=591
+FAILED index=732 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=732 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=732 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=732 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=733 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=733 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=733 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=733 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=734 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=734 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=734 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=734 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=735 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=735 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=736 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=735 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=735 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=736 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=736 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=736 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=2940/3160 failures=611
+FAILED index=737 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=737 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=737 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=737 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=738 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=738 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=738 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=739 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=738 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=739 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=739 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=740 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=739 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=740 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=740 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=740 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=741 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=741 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=741 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=741 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=2960/3160 failures=631
+FAILED index=742 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=742 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=742 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=743 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=742 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=743 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=743 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=743 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=744 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=744 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=744 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=744 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=745 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=745 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=745 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=745 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=746 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=746 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=746 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=747 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=2980/3160 failures=651
+FAILED index=746 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=747 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=747 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=747 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=748 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=748 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=748 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=748 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=749 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=749 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=749 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=749 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=750 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=750 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=750 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=750 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=751 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=751 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=751 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=752 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=3000/3160 failures=671
+FAILED index=751 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=753 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=752 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=752 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=752 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=753 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=753 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=753 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=754 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=754 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=754 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=754 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=755 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=755 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=755 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=755 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=756 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=756 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=756 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=756 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=3020/3160 failures=691
+FAILED index=757 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=757 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=757 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=757 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=758 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=758 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=758 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=758 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=759 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=759 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=759 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=759 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=760 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=760 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=760 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=760 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=761 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=761 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=761 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=761 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=3040/3160 failures=711
+FAILED index=762 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=762 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=762 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=763 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=762 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=763 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=763 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=763 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=764 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=764 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=764 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=764 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=765 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=765 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=765 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=765 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=766 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=766 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=766 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=766 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=3060/3160 failures=731
+FAILED index=767 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=767 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=767 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=767 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=768 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=768 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=768 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=769 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=768 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=769 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=769 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=769 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=770 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=770 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=770 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=770 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=771 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=771 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=772 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=771 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=3080/3160 failures=751
+FAILED index=771 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=772 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=772 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=772 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=773 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=773 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=773 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=773 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=774 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=774 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=774 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=775 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=774 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=775 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=775 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=776 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=775 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=776 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=776 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=776 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=3100/3160 failures=771
+FAILED index=777 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=777 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=777 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=777 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=778 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=778 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=778 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=778 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=779 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=779 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=779 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=779 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=780 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=780 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=780 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=780 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=781 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=781 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=781 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=782 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=3120/3160 failures=791
+FAILED index=781 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=782 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=782 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=782 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=783 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=783 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=783 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=783 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=784 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=784 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=784 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=784 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=785 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=785 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=785 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=785 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=786 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=786 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=786 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=786 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=3140/3160 failures=811
+FAILED index=787 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=787 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=787 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=787 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=788 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=788 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=788 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=788 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=789 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=789 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=789 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=789 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=790 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=790 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=790 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=790 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=791 ratio=20%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=791 ratio=40%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=791 ratio=60%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+FAILED index=791 ratio=80%: compression failed after 5 attempts: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+completed=3160/3160 failures=831
